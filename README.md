@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Mariana Herreros 👋
 
 - 🔭 Hoje trabalho com front-end
+- 🌱 Cursando Análise e desenvolvimento de sistemas - UNOPAR
 - 🌱 Estudando na Alura 
 - 📫 Contato: maribranding@gmail.com
 
